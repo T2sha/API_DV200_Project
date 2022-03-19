@@ -7,8 +7,9 @@ import {Routes,Route} from 'react-router-dom'
 function App() {
   return (
     <div className="App">
-      <Routes>
       < Header />
+      
+      <Routes>
       <Route path="/" element = {<Dashboard />}/>
       <Route path="/Compare" element = {<Compare />}/>
       <Route path="/Timeline" element = {<Timeline />}/>
