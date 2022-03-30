@@ -6,7 +6,7 @@ const Header = ()=>{
             
             <ul>
                 <li><a href="/">Dashboard</a></li>
-                <li><i class='fa fa-bar-chart'></i><a href="/Compare">Compare</a></li>
+                <li><i className='fa fa-bar-chart'></i><a href="/Compare">Compare</a></li>
                 <li><a href="/Timeline">Timeline</a></li>
             </ul>
             </div>
@@ -15,3 +15,4 @@ const Header = ()=>{
     )
 }
 export default Header
+

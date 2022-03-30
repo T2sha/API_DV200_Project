@@ -4,6 +4,8 @@ import Compare from "./components/Compare"
 import Timeline from "./components/Timeline"
 import {Routes,Route} from 'react-router-dom'
 
+
+
 function App() {
   return (
     <div className="App">
