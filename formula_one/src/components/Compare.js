@@ -19,7 +19,7 @@ const options = {
   url: 'https://formula-1-all-time-statistics.p.rapidapi.com/2021/drivers/all',
   headers: {
     'X-RapidAPI-Host': 'formula-1-all-time-statistics.p.rapidapi.com',
-    'X-RapidAPI-Key': '34c5e8c498msh6bf026a01b33052p1d36e1jsn80f065b0e7a9'
+    'X-RapidAPI-Key': 'db9da9a411mshb5f37cd28e85b33p1838d2jsnb5755b60a220'
   }
 };
 const [drivers, setDrivers]=useState([])
@@ -51,17 +51,17 @@ const getDriverData=()=>{
 
 }
 const chartData = {
-    labels: ['Car One ' ,'Car Two ' ],
+    labels: ['Driver One ' ,'Driver Two ' ],
     datasets: [{
-        label: ['Car One ' ,'Car Two ' ],
+        label: ['Driver One  ' ,' Driver Two ' ],
         data: chartInfo,
         backgroundColor: [
-            'rgba(255, 99, 132, 0.2)',
-            'rgba(54, 162, 235, 0.2)'
+            'rgba(143,160,165,0.1)',
+            'rgba(255,40,0, 0.2)'
         ],
         borderColor: [
-            'rgba(255, 99, 132, 1)',
-            'rgba(54, 162, 235, 1)'
+            'rgba(0,111,98,1)',
+            'rgba(255,40,0, 1)'
         ],
         borderWidth: 1
     }]
@@ -72,24 +72,29 @@ const chartData = {
         <div>
             <div className='left-panel'>
             <select onChange={getDriverData} ref={driverId} >
-                        <option>Select Car Trim 3rd</option>
+                        <option>Select Driver One</option>
                         {drivers.map(item => <option  value={item.pos}>{item.driver}</option>)}
 </select>
 
             <select onChange={getDriverData} ref={driverId2} >
-                        <option>Select Car Trim 3rd</option>
+                        <option>Select Driver Two</option>
                         {drivers.map(item => <option  value={item.pos}>{item.driver}</option>)}
 </select>
             </div>
 
             <div className='right-panel'>
-            <Bar data={chartData}
+                <div className="bar">
+                <Bar data={chartData}
   />
+                </div>
+                <div className="pie">
             <Pie data={chartData}
   />
-
-<PolarArea data={chartData}
+            </div>
+            <div className="polar-area">
+           <PolarArea data={chartData}
   />
+         </div>
 
 
   
