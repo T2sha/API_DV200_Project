@@ -67,7 +67,7 @@
 <!--PROJECT DESCRIPTION-->
 ## About the Project
 <!-- header image of project -->
-![image1][https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/src/assets/redbull-car.png]
+![image1](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/src/assets/redbull-car.png)
 
 ### Project Description
 
