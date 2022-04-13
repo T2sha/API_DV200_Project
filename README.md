@@ -118,11 +118,11 @@ Run the following in the command-line to install all the required dependencies:
 ## Features and Functionality
 
 <!-- note how you can use your gitHub link. Just make a path to your assets folder -->
-![image2]()
+![image2](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/src/assets/table.png)
 
-### All The Latest Space X Data! 
+### All The Latest Formula One Data! 
 
-Usding the Space X API, we have collected and collated all the most relevant Space X data into once seemless react experience!
+Using the Formula One API, we have collected and collated all the most relevant Formula One  data into once seemless react experience!
 
 ![image3][image3]
 ### Feature 2
