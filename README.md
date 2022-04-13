@@ -180,19 +180,22 @@ The `Development Process` is the technical implementations and functionality don
 
 * Utilized React `Charts.JS` dependency for Data visualization
 * Implemented Routing with `React-Router v6`.
-* API End Point: link Here 
+* API End Point: https://formula-1-all-time-statistics.p.rapidapi.com/2021/drivers/all
 * `Plugin` for this.
-* ETC.
+* Store data with a useEffect() to 
+
 
 #### Highlights
 <!-- stipulated the highlight you experienced with the project -->
-* What was good about this project, what did you learn.
-* What aspects did you enjoy.
+* React allows you to break down your monolith into small single-purpose components that you can reuse in any app. This concept isn't new in the web world, but it's become extremely popular thanks to React.
+*What could be easier than a simple function: props => JSX?
+This is the central concept of respond! You acquire properties and write JSX code in return. It's a component of the react framework.
 
 #### Challenges
 <!-- stipulated the challenges you faced with the project and why you think you faced it or how you think you'll solve it (if not solved) -->
-* Bugs.
-* Bugs.
+* The first bug I expierienced is to find an correct API that have enough data, but not just enough data, spesific data that can be used for a timeline and be able to compare to each other.
+* The second challenge I experienced is that my API only have a limited amount of API requests each month. I resolved this problem by getting different API keys from different accounts.
+
 
 
 #### Above And Beyond
@@ -205,8 +208,8 @@ What aspects of this final build contribute to the `Above And Beyond` Component 
 ### Future Implementation
 <!-- stipulate functionality and improvements that can be implemented in the future. -->
 
-* Future 1.
-* Future 2.
+* Styling of Charts and having more data be displayed on different pages. 
+* Creating the Web Application more userfriendly.
 
 <!-- MOCKUPS -->
 ## Final Outcome
@@ -230,7 +233,7 @@ See the [open issues](https://github.com/T2sha/API_DV200_Project /issues) for a 
 <!-- AUTHORS -->
 ## Authors
 
-* **Your Name & Surname** - [T2sha](https://github.com/T2sha)
+* **Natasha Jv Rensburg** - [T2sha](https://github.com/T2sha)
 
 <!-- LICENSE -->
 ## License
@@ -240,17 +243,17 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 <!-- LICENSE -->
 ## Contact
 
-* **Your Name & Surname** - [email@address](mailto:email@address) - [@instagram_handle](https://www.instagram.com/instagram_handle/) 
+* **NatashaJvRensburg** - [email@address](21100474@virtualwindow.co.za) - [@instagram_handle](https://www.instagram.com/instagram_handle/) 
 * **Project Link** - https://github.com/T2sha/API_DV200_Project 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 <!-- all resources that you used and Acknowledgements here -->
-* [Resource Name](path/to/resource)
-* [Resource Name](path/to/resource)
-* [Resource Name](path/to/resource)
-* [Resource Name](path/to/resource)
-* [Resource Name](path/to/resource)
+* [Dribble](https://dribbble.com/)
+* [Figma](https://www.figma.com/files/recent?fuid=951531219303017195)
+* [MockupWorld](https://www.mockupworld.co/free/imac-with-keyboard-mockup/)
+* [Pinterest](https://za.pinterest.com/liatschiselman/dashboard-graphs/)
+* [Unsplash](https://unsplash.com/)
 
 
 
