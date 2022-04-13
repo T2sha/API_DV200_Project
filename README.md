@@ -163,7 +163,7 @@ The `Conceptual Process` is the set of actions, activities and research that was
 
 ### Wireframes
 
-![image7](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/public/Wireframe.jpg)
+![image7](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/public/wireframe.jpg)
 
 ### Custom UI
 
