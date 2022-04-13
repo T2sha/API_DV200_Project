@@ -118,7 +118,7 @@ Run the following in the command-line to install all the required dependencies:
 ## Features and Functionality
 
 <!-- note how you can use your gitHub link. Just make a path to your assets folder -->
-![image2](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/src/assets/table.png)
+![image2](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/public/table.png)
 
 ### All The Latest Formula One Data! 
 
