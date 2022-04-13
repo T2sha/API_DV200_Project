@@ -133,9 +133,19 @@ PROPS are react objects that store the values of a tag's attributes and behave s
 ![image4](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/public/Icons/Compare.png)
 ### Feature 3
 
-Description of Feature
+Chart. js is a community-maintained open-source package (it's on GitHub) that makes it simple to visualize data in JavaScript. It's similar to Chartist and Google Charts in terms of functionality. It includes eight different chart kinds (including bars, lines, and pies), all of which are responsive.Hooks are a new React 16.8 version. It allows you to leverage React's state and other capabilities without having to write a class. Hooks are functional components that "hook onto" React state and lifecycle aspects. Inside the classrooms, it does not work.
+Hooks are backwards compatible, which means they don't introduce any new features. It also doesn't take the place of your existing React knowledge.If you want to add state to a function component, you must first convert it to a class. However, you can now accomplish this by incorporating a Hook into an existing function component.
 
-![image5][image5]
+Combining "Hooks" into Chart.js API data can be dinamically be shown on the different Charts.
+Using a selector, different Formula one drivers can be selected to compare against each other.
+
+
+
+![image5](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/public/Icons/Timeline.png)
+
+A single Line Graph should be present on the timeline page, mapping all of the entries of at least five separate object characteristics.
+Across the whole dataset entry period, the timeline should only show one property set at a time.
+The property presented must be able to be changed via an input.
 
 
 <!-- CONCEPT PROCESS -->
@@ -147,13 +157,13 @@ The `Conceptual Process` is the set of actions, activities and research that was
 
 ### Ideation
 
-![image5][image5]
+![image5](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/public/Idea.jpg)
 <br>
-![image6][image6]
+![image6](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/public/Idea2.jpg)
 
 ### Wireframes
 
-![image7][image7]
+![image7](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/public/Wireframe.jpg)
 
 ### Custom UI
 
