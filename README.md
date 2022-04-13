@@ -71,7 +71,8 @@
 
 ### Project Description
 
-A nice introduction to this amazing project of mine.
+Welcome to the Formula One Desktop application!
+You'll begin to experience your quest for the elusive Full Stack title by seeing a developing a data-driven web application using modern development tools like Node.js and React! This Web Application is investigated by the chosen API of your Formula One, and you will visualize the data collection by seeing the Charts.js framework components being used!
 
 ### Built With
 
