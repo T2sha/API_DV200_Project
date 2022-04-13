@@ -202,7 +202,7 @@ What aspects of this final build contribute to the `Above And Beyond` Component 
 
 ### Mockups
 
-![image9](https://github.com/T2sha/API_DV200_Project/main/formula_one/public/DesktopMockup.jpg)
+![image9](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/public/DesktopMockup.jpg)
 <br>
 ![image10][image10]
 
