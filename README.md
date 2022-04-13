@@ -10,14 +10,14 @@
 
 
 <!-- HEADER SECTION -->
-<h5 align="center" style="padding:0;margin:0;">Mike Maynard</h5>
-<h5 align="center" style="padding:0;margin:0;">110185</h5>
+<h5 align="center" style="padding:0;margin:0;">Natasha Jv Rensburg</h5>
+<h5 align="center" style="padding:0;margin:0;">21100474</h5>
 <h6 align="center">DV200 - Term 1 | 2022</h6>
 </br>
 <p align="center">
 
   <a href="https://github.com/T2sha/API_DV200_Project ">
-    <img src="src/assets/mascot.svg" alt="Logo" width="140" height="140">
+    <img src="/main/formula_one/public/f1.png" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">OpenSpace</h3>
