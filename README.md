@@ -116,7 +116,7 @@ Run the following in the command-line to install all the required dependencies:
 ## Features and Functionality
 
 <!-- note how you can use your gitHub link. Just make a path to your assets folder -->
-![image2](https://raw.githubusercontent.com/T2sha/API_DV200_Project /main/src/assets/mockup.jpg)
+![image2](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/src/assets/redbull-car.png)
 
 ### All The Latest Space X Data! 
 
