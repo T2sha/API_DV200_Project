@@ -3,10 +3,10 @@
 <!-- Repository Information & Links-->
 <br />
 
-![GitHub repo size](https://img.shields.io/github/repo-size/T2sha/termoneexample)
-![GitHub watchers](https://img.shields.io/github/watchers/T2sha/termoneexample)
-![GitHub language count](https://img.shields.io/github/languages/count/T2sha/termoneexample)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/T2sha/termoneexample)
+![GitHub repo size](https://img.shields.io/github/repo-size/T2sha/API_DV200_Project )
+![GitHub watchers](https://img.shields.io/github/watchers/T2sha/API_DV200_Project )
+![GitHub language count](https://img.shields.io/github/languages/count/T2sha/API_DV200_Project )
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/T2sha/API_DV200_Project )
 
 
 <!-- HEADER SECTION -->
@@ -16,7 +16,7 @@
 </br>
 <p align="center">
 
-  <a href="https://github.com/T2sha/termoneexample">
+  <a href="https://github.com/T2sha/API_DV200_Project ">
     <img src="src/assets/mascot.svg" alt="Logo" width="140" height="140">
   </a>
   
@@ -30,9 +30,9 @@
    <br />
    <a href="path/to/demonstration/video">View Demo</a>
     ·
-    <a href="https://github.com/T2sha/termoneexample/issues">Report Bug</a>
+    <a href="https://github.com/T2sha/API_DV200_Project /issues">Report Bug</a>
     ·
-    <a href="https://github.com/T2sha/termoneexample/issues">Request Feature</a>
+    <a href="https://github.com/T2sha/API_DV200_Project /issues">Request Feature</a>
 </p>
 <!-- TABLE OF CONTENTS -->
 
@@ -93,12 +93,12 @@ Ensure that you have the latest version of [NPM](https://www.npmjs.com/) install
 Here are a couple of ways to clone this repo:
 
 1. GitHub Desktop </br>
-Enter `https://github.com/T2sha/termoneexample.git` into the URL field and press the `Clone` button.
+Enter `https://github.com/T2sha/API_DV200_Project .git` into the URL field and press the `Clone` button.
 
 2. Clone Repository </br>
 Run the following in the command-line to clone the project:
    ```sh
-   git clone https://github.com/T2sha/termoneexample.git
+   git clone https://github.com/T2sha/API_DV200_Project .git
    ```
     Open `Software` and select `File | Open...` from the menu. Select cloned directory and press `Open` button
 
@@ -116,7 +116,7 @@ Run the following in the command-line to install all the required dependencies:
 ## Features and Functionality
 
 <!-- note how you can use your gitHub link. Just make a path to your assets folder -->
-![image2](https://raw.githubusercontent.com/T2sha/termoneexample/main/src/assets/mockup.jpg)
+![image2](https://raw.githubusercontent.com/T2sha/API_DV200_Project /main/src/assets/mockup.jpg)
 
 ### All The Latest Space X Data! 
 
@@ -212,7 +212,7 @@ To see a run through of the application, click below:
 [View Demonstration](path/to/video/demonstration)
 
 
-See the [open issues](https://github.com/T2sha/termoneexample/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/T2sha/API_DV200_Project /issues) for a list of proposed features (and known issues).
 
 <!-- AUTHORS -->
 ## Authors
@@ -228,7 +228,7 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 ## Contact
 
 * **Your Name & Surname** - [email@address](mailto:email@address) - [@instagram_handle](https://www.instagram.com/instagram_handle/) 
-* **Project Link** - https://github.com/T2sha/termoneexample
+* **Project Link** - https://github.com/T2sha/API_DV200_Project 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
