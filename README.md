@@ -16,8 +16,8 @@
 </br>
 <p align="center">
 
-  <a href="https://github.com/T2sha/API_DV200_Project ">
-    <img src="/public/f1.png" alt="Logo" width="140" height="140">
+  <a href="https://github.com/T2sha/API_DV200_Project/formula_one">
+    <img src="public/f1.png" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">OpenSpace</h3>
