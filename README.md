@@ -76,8 +76,8 @@ A nice introduction to this amazing project of mine.
 ### Built With
 
 * [React](https://reactjs.org/)
-* [Technology Name](path/to/technology/website)
-* [Technology Name](path/to/technology/website)
+* [Chart.js](https://www.chartjs.org/)
+* [Node.js](https://nodejs.org/en/)
 
 <!-- GETTING STARTED -->
 <!-- Make sure to add appropriate information about what prerequesite technologies the user would need and also the steps to install your project on their own mashines -->
