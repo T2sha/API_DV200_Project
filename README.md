@@ -21,7 +21,8 @@
 <p align="center">
 
   <a href="https://github.com/T2sha/API_DV200_Project.git">
-    <img src="public/f1.png" alt="Logo" width="140" height="140">
+   <img src="src/assets/logo![Foto](https://user-images.githubusercontent.com/91013773/163191213-3d2f9c97-22e9-4262-a685-b4234f2fa893.png)
+.svg" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">Formula One</h3>
