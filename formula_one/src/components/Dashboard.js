@@ -1,17 +1,29 @@
+
+
 const Dashboard =()=>{
     return(
-        <>
-       <div className ="logo-container">
-           <h1>Formula One</h1>
-         <img src="./f1.png" width="150" height="150"></img>
-       </div>
+        <> 
+        <div className ="container">
+          <div className="ricardo"></div>
+           <h1>Red Bull Racing</h1>
+          <div className="track">
+            <p>NUMBER OF LAPS</p>
+            <p1>RACETIME</p1>
+            <p2>GRANDPRIX</p2>
 
-       <div className ="image">  
-       
-       </div>
+          </div>
+
+          <div className="dash33">
+          <h2>Welcome back!</h2>
+          </div>
+          
+       <div className ="logo-container"></div>
+
+     
 
        <div className="information">
 
+       </div>
        </div>
 
        </>
