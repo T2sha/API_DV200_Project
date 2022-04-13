@@ -125,7 +125,7 @@ Run the following in the command-line to install all the required dependencies:
 
 Using the Formula One API, we have collected and collated all the most relevant Formula One  data into once seemless react experience!
 
-![image3][image3]
+![image3](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/public/DesktopMockup.jpg)
 ### Feature 2
 
 Description of Feature
