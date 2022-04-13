@@ -16,9 +16,8 @@
 </br>
 <p align="center">
 
-  <a href="https://github.com/T2sha/API_DV200_Project/formula_one">
-    <img src="public/f1.png" alt="Logo" width="140" height="140">
-  </a>
+ 
+   ![image2](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/public/f1.png)
   
   <h3 align="center">OpenSpace</h3>
 
@@ -116,7 +115,7 @@ Run the following in the command-line to install all the required dependencies:
 ## Features and Functionality
 
 <!-- note how you can use your gitHub link. Just make a path to your assets folder -->
-![image2](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/src/assets/redbull-car.png)
+![image2](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/src/assets/redbull-car.png)
 
 ### All The Latest Space X Data! 
 
