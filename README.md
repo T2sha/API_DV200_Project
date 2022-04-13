@@ -19,11 +19,14 @@
  
    ![image2](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/public/f1.png)
   
-  <h3 align="center">OpenSpace</h3>
+  <h3 align="center">Formula One</h3>
 
   <p align="center">
-    A react project using the Space X Api to demonstrate data visualization using charts js  <br>
-    <i>This However is a template file for DV200 Students!</i> 
+     Starting this journey towards the elusive 
+    Full Stack title by creating a data driven web application utilizing 
+    modern development technologies such as Node.js and React!    
+    A react project using the Formula One  Api to demonstrate data visualization using charts js and exploring  the concept of component based development by using the React framework to construct your front end.  <br>
+   
     
    <br />
    <br />
@@ -64,7 +67,7 @@
 <!--PROJECT DESCRIPTION-->
 ## About the Project
 <!-- header image of project -->
-![image1][image1]
+![image1][https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/src/assets/redbull-car.png]
 
 ### Project Description
 
@@ -115,7 +118,7 @@ Run the following in the command-line to install all the required dependencies:
 ## Features and Functionality
 
 <!-- note how you can use your gitHub link. Just make a path to your assets folder -->
-![image2](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/src/assets/redbull-car.png)
+![image2]()
 
 ### All The Latest Space X Data! 
 
