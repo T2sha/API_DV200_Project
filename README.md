@@ -128,9 +128,9 @@ Using the Formula One API, we have collected and collated all the most relevant 
 ![image3](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/public/DesktopMockup.jpg)
 ### Feature 2
 
-Description of Feature
+PROPS are react objects that store the values of a tag's attributes and behave similarly to HTML attributes. It allows data to be passed from one component to another. It's the same as function parameters. Props are provided to the component in the same way as function arguments are. As seen in the above Mockup, using PROPS in a tableItem style ,different Formula One drivers with their gain points are displayed.
 
-![image4][image4]
+![image4](https://raw.githubusercontent.com/T2sha/API_DV200_Project/main/formula_one/public/Icons/Compare.png)
 ### Feature 3
 
 Description of Feature
